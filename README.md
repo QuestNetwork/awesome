@@ -15,7 +15,9 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 #### Utitilies
 * [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js) - Decentralized Routing And Configuration Management
 * [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js) - Smart API And Process Management
-* [Quest PubSub JS](https://github.com/QuestNetwork/quest-pubsub-js) - Second Layer PubSub Protocol To Provide Encrypted And Obfuscated Communication
+* [Quest PubSub JS](https://github.com/QuestNetwork/quest-pubsub-js) - Second Layer PubSub Protocol To Provide Encrypted And Obfuscated 
+Communication
+* [Quest Image Captcha JS](https://github.com/QuestNetwork/quest-image-captcha-js) - Decentralized Image Captcha
 
 ---
 
