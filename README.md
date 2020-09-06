@@ -6,7 +6,7 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 #### Collaboration
 
-* [Vibenarium](https://github.com/Vibenarium) - Multi-platform dStack for collaborative planning, creation, processing, distribution and exploration. 
+* [Vibenarium](https://github.com/Vibenarium) - Multi-platform dStack and dApp for collaborative planning, creation, processing, distribution and exploration. 
 
 #### Communication
 
