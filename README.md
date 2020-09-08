@@ -18,7 +18,7 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 #### Utitilies
 * [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js) - Decentralized Routing And Configuration Management
-* [Quest Ocean JS](https://github.com/QuestNetwork/quest-dolphin-js) - Unified API For Swarm Services
+* [Quest Ocean JS](https://github.com/QuestNetwork/quest-ocean-js) - Unified API For Swarm Services
 * [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js) - Smart API And Process Management
 * [Quest PubSub JS](https://github.com/QuestNetwork/quest-pubsub-js) - Second Layer PubSub Protocol To Provide Encrypted And Obfuscated 
 Communication And Spam Protection
