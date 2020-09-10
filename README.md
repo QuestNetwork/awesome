@@ -1,4 +1,4 @@
- <img src="questnetworkanimation.gif" width="100%" height="30vh">
+ <img src="questnetworkanimation.gif" width="100%" height="300px">
 
 # Awesome Quest Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
