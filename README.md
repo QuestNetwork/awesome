@@ -19,7 +19,8 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 * [Quest Network Operating System JS](https://github.com/QuestNetwork/quest-os-js) - JavaScript Implementation of the Quest Network Operating System. Plug and play solution to build Quest Network, IPFS and Ethereum dApps.
 
-#### Utitilies
+#### System Services 
+* [qDesktop](https://github.com/QuestNetwork/qDesktop) - Window Manager, loads and manages lazy loaded modules system components.
 * [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js) - Decentralized Routing And Configuration Management
 * [Quest Ocean JS](https://github.com/QuestNetwork/quest-ocean-js) - Unified API For Swarm Processes
 * [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js) - Smart API And Process Management
