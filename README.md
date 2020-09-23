@@ -13,7 +13,7 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 #### Communication
 
-* [qDesk Messages](https://github.com/QuestNetwork/quest-messenger-js) - Decentralized next generation messenger
+* [qDesk Messages](https://github.com/QuestNetwork/qd-messages-ts) - Decentralized next generation messenger
 
 ### Social Networks
 
