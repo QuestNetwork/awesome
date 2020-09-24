@@ -12,6 +12,10 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 * [qDesk Messages](https://github.com/QuestNetwork/qd-messages-ts) - Decentralized Messenger
 
+#### Games
+
+* [qDesk Games](https://github.com/QuestNetwork/qd-games-ts) - Peer-to-peer Gaming Platform For Unity & Unreal Engine Games
+
 #### Social Networks
 
 * [qDesk Social](https://github.com/QuestNetwork/qd-social-ts) - Decentralized Social Network (links to identities on qDesk Messages)
