@@ -20,12 +20,13 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 * [qDesk Market](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace
 
-
 #### Development
 
-* [Quest Network Operating System JS](https://github.com/QuestNetwork/quest-os-js) - JavaScript Implementation of the Quest Network Operating System. Plug and play solution to build Quest Network, IPFS and Ethereum dApps.
-
 * [qDesk](https://github.com/QuestNetwork/qDesk) - Example app, loads and manages lazy loaded modules and system components.
+
+#### Core Package 
+
+* [Quest Network Operating System JS](https://github.com/QuestNetwork/quest-os-js) - JavaScript Implementation of the Quest Network Operating System. Plug and play solution to build Quest Network, IPFS and Ethereum dApps.
 
 #### System Services 
 * [Quest Social JS](https://github.com/QuestNetwork/quest-social-js) - Social Network Manager
