@@ -14,11 +14,15 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 #### Social Networks
 
-* [qDesk Social](https://github.com/QuestNetwork/qd-social-ts) - Decentralized Social Network
+* [qDesk Social](https://github.com/QuestNetwork/qd-social-ts) - Decentralized Social Network (links to identities on qDesk Messages)
+
+#### News
+
+* [qDesk News](https://github.com/QuestNetwork/qd-news-ts) - Decentralized News Platform (links to disccusions on qDesk Social)
 
 #### Trade 
 
-* [qDesk Market](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace
+* [qDesk Market](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace (links to profiles on qDesk Social)
 
 #### Development
 
