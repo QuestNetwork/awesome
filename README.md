@@ -1,6 +1,3 @@
-<img src='qngif2.gif' width=100% height=30% />
-
-
 # Awesome Quest Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else.
@@ -15,9 +12,13 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 * [qDesk Messages](https://github.com/QuestNetwork/qd-messages-ts) - Decentralized next generation messenger
 
-### Social Networks
+#### Social Networks
 
 * [qDesk Social](https://github.com/QuestNetwork/qd-social-ts) - Decentralized Social Network
+
+#### Trade 
+
+* [qDesk Market](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace
 
 
 #### Development
@@ -40,3 +41,6 @@ Communication And Spam Protection
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<img src='qngif2.gif' width=100% height=30% />
+
