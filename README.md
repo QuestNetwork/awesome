@@ -26,7 +26,7 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 #### Trade 
 
-* [qDesk Market](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace (links to profiles on qDesk Social)
+* [qDesk Markets](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace (links to profiles on qDesk Social)
 
 #### Development
 
