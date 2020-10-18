@@ -22,7 +22,7 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 #### Scheduling
 
-* [qDesk Calendar](https://github.com/QuestNetwork/qd-calendar-ts) - Decentralized Social Network 
+* [qDesk Calendar](https://github.com/QuestNetwork/qd-calendar-ts) - Peer-to-peer Shared & Advertised Calendar Events
 
 #### Social Networks
 
