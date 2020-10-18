@@ -12,21 +12,33 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 * [qDesk Messages](https://github.com/QuestNetwork/qd-messages-ts) - Decentralized Messenger
 
+#### Apps
+
+* [qDesk Apps](https://github.com/QuestNetwork/qd-apps-ts) - Peer-to-peer App Publishing
+
 #### Games
 
-* [qDesk Games](https://github.com/QuestNetwork/qd-games-ts) - Peer-to-peer Gaming Platform For Unity & Unreal Engine Games
+* [qDesk Games](https://github.com/QuestNetwork/qd-games-ts) - Peer-to-peer Distribution & Gaming Platform
+
+#### Scheduling
+
+* [qDesk Calendar](https://github.com/QuestNetwork/qd-calendar-ts) - Decentralized Social Network 
 
 #### Social Networks
 
-* [qDesk Social](https://github.com/QuestNetwork/qd-social-ts) - Decentralized Social Network (links to identities on qDesk Messages)
+* [qDesk Social](https://github.com/QuestNetwork/qd-social-ts) - Decentralized Social Network 
+
+#### Streaming
+
+* [qDesk Vibes](https://github.com/QuestNetwork/qd-vibes-ts) - Decentralized Streaming Service & Advanced Media Distribution
 
 #### News
 
-* [qDesk News](https://github.com/QuestNetwork/qd-news-ts) - Decentralized News Platform (links to disccusions on qDesk Social)
+* [qDesk News](https://github.com/QuestNetwork/qd-news-ts) - Decentralized News Platform 
 
 #### Trade 
 
-* [qDesk Markets](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace (links to profiles on qDesk Social)
+* [qDesk Markets](https://github.com/QuestNetwork/qd-market-ts) - Decentralized Marketplace
 
 #### Development
 
