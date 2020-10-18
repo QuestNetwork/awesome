@@ -44,19 +44,32 @@ Awesome list of [Quest Network](https://github.com/QuestNetwork) seed repos, sta
 
 * [qDesk](https://github.com/QuestNetwork/qDesk) - Example app, loads and manages lazy loaded modules and system components.
 
-#### Core Package 
+#### Core Packages
 
 * [Quest Network Operating System JS](https://github.com/QuestNetwork/quest-os-js) - JavaScript Implementation of the Quest Network Operating System. Plug and play solution to build Quest Network, IPFS and Ethereum dApps.
 
-#### System Services 
-* [Quest Social JS](https://github.com/QuestNetwork/quest-social-js) - Social Network Manager
-* [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js) - Decentralized Routing And Configuration Management
-* [Quest Ocean JS](https://github.com/QuestNetwork/quest-ocean-js) - Unified API For Swarm Processes
-* [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js) - Smart API And Process Management
+* [Quest Network Quorum Module](https://github.com/QuestNetwork/quest-quorum-js) - JavaScript Implementation of the Quest Network Quorum Protocol.
+
 * [Quest PubSub JS](https://github.com/QuestNetwork/quest-pubsub-js) - Second Layer PubSub Protocol To Provide Encrypted And Obfuscated 
 Communication And Spam Protection
+
 * [Quest Crypto JS](https://github.com/QuestNetwork/quest-crypto-js) - Crypto library
+
+#### Utility Services 
+* [Quest Utilities JS](https://github.com/QuestNetwork/quest-utilities-js) - Utility library
+* [QD UI JS](https://github.com/QuestNetwork/qd-ui-js) - UI Utility library
+
+
+#### System Services 
+* [Quest Engine JS](https://github.com/QuestNetwork/quest-engine-js) - Quest Engine
+* [Quest Social JS](https://github.com/QuestNetwork/quest-social-js) - Social Network Manager
+* [Quest Bee JS](https://github.com/QuestNetwork/quest-bee-js) - Decentralized Routing And Configuration Management
+* [Quest Coral JS](https://github.com/QuestNetwork/quest-coral-js) - Decentralized DAG Datastore 
+* [Quest Ocean JS](https://github.com/QuestNetwork/quest-ocean-js) - Unified API For Swarm Processes
+* [Quest Dolphin JS](https://github.com/QuestNetwork/quest-dolphin-js) - Smart API And Process Management
 * [Quest Image Captcha JS](https://github.com/QuestNetwork/quest-image-captcha-js) - Decentralized Image Captcha
+
+
 
 ---
 
